@@ -1,0 +1,7 @@
+Name=input("Enter the Name👍")
+Dob=input("Enter the dob🎂")
+college=input("Enter the college🎓")
+fav_color=input("Enter the favorate Color👍")
+fav_movie=input("Enter the fav movie")
+fav_food=input("Enter the fav food")
+print(name,Dob,city,college,fav_color, fav_food,fav_movie)
