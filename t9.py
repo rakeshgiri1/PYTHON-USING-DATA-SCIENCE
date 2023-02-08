@@ -1,5 +1,5 @@
 from turtle import *
-bgcolor("skyblue")  
+bgcolor("black")  
 pensize(2)  
 speed(0) 
 while(True):
