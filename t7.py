@@ -25,7 +25,7 @@ def txt():
 	pen.setpos(-68, 95)
 	pen.down()
 	pen.color('blue')
-	pen.write("I love Himanshu", font=("Verdana", 12, "bold"))
+	pen.write("I love Aditya", font=("Verdana", 12, "bold"))
 heart()
 txt()
 turtle.done()

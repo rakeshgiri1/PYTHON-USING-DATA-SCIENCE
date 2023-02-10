@@ -3,11 +3,10 @@
 from turtle import *
 speed(0)
  
-for i in range(45):
+for i in range(450):
     circle(5*i,)
     circle(-5*i)
     left(i)
     bgcolor("black")
-    pencolor("red")
- 
+    pencolor("blue")
 mainloop()
